@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pregunta_hacer.wav-d2c2a437f16bf7bb06147b812bc8aa76.sample"
+
+[deps]
+
+source_file="res://audios/voz/pregunta_hacer.wav"
+dest_files=[ "res://.import/pregunta_hacer.wav-d2c2a437f16bf7bb06147b812bc8aa76.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

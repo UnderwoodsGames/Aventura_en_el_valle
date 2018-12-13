@@ -1,0 +1,28 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=3
+
+[application]
+
+config/name="Nuevo Proyecto de Juego"
+run/main_scene="res://escenas/Splash.tscn"
+config/icon="res://icon.png"
+
+[display]
+
+window/size/width=2048
+window/size/height=1152
+window/size/fullscreen=true
+window/stretch/mode="viewport"
+window/stretch/aspect="expand"
+
+[rendering]
+
+environment/default_clear_color=Color( 0.996094, 0.996094, 0.996094, 1 )
+environment/default_environment="res://default_env.tres"

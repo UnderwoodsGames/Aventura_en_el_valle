@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Río_Claro.wav-4bf7b41c0fdcd9d609e6edc3d1023cdc.sample"
+
+[deps]
+
+source_file="res://audios/voz/Río_Claro.wav"
+dest_files=[ "res://.import/Río_Claro.wav-4bf7b41c0fdcd9d609e6edc3d1023cdc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

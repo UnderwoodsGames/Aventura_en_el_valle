@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/tecla_incorrecta.wav-cce4d77b575d6e4badf0f17dc9f5167b.sample"
+
+[deps]
+
+source_file="res://audios/voz/tecla_incorrecta.wav"
+dest_files=[ "res://.import/tecla_incorrecta.wav-cce4d77b575d6e4badf0f17dc9f5167b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

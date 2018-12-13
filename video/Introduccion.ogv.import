@@ -1,0 +1,14 @@
+[remap]
+
+importer="Theora"
+type="VideoStreamTheora"
+path="res://.import/Introduccion.ogv-ff07aa160242d46268241f67ab527359.ogvstr"
+
+[deps]
+
+source_file="res://video/Introduccion.ogv"
+dest_files=[ "res://.import/Introduccion.ogv-ff07aa160242d46268241f67ab527359.ogvstr" ]
+
+[params]
+
+loop=true

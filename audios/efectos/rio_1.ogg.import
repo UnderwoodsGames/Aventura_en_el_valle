@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rio_1.ogg-1013f71b929657186ed35808ccd69a35.oggstr"
+
+[deps]
+
+source_file="res://audios/efectos/rio_1.ogg"
+dest_files=[ "res://.import/rio_1.ogg-1013f71b929657186ed35808ccd69a35.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

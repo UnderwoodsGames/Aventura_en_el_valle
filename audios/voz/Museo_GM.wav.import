@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Museo_GM.wav-7ca6bc4b8e065c9479b93bd56737d04f.sample"
+
+[deps]
+
+source_file="res://audios/voz/Museo_GM.wav"
+dest_files=[ "res://.import/Museo_GM.wav-7ca6bc4b8e065c9479b93bd56737d04f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

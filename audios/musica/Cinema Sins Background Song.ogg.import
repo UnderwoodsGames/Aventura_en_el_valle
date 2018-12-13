@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Cinema Sins Background Song.ogg-fbb880a691d2d04f6c6297ee4593eea0.oggstr"
+
+[deps]
+
+source_file="res://audios/musica/Cinema Sins Background Song.ogg"
+dest_files=[ "res://.import/Cinema Sins Background Song.ogg-fbb880a691d2d04f6c6297ee4593eea0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
